@@ -5,7 +5,7 @@ This project provides a data engineering and analytical journey on the Tokyo Oly
 Dataset Used
 This dataset contains details of over 11,000 athletes, 47 disciplines, and 743 teams participating in the 2021 (2020) Tokyo Olympics. It includes information about athletes, coaches, teams, and entries by gender, with details like names, countries represented, discipline, and gender of competitors.
 
-Source: [2021 Olympics in Tokyo - Kaggle]([url](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo))
+Source: [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 Azure Services Used
 Azure Data Factory: For data ingestion from GitHub.
