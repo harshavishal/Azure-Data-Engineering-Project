@@ -14,7 +14,7 @@ This dataset contains details of over 11,000 athletes, 47 disciplines, and 743 t
 2. **Azure Data Lake Storage Gen2:** As the primary data storage solution.
 3. **Azure Databricks:** For data transformation tasks.
 4. **Azure Synapse Analytics:** To perform in-depth data analytics.
-5. **Power BI:** For data visualization.
+
 
 ## Workflow
 
