@@ -1,6 +1,6 @@
 # Azure-Data-Engineering-Project | Tokyo Olympics Data Analytics
 
-This project demonstrates a comprehensive data engineering and analytics workflow using the Tokyo Olympic dataset. The process begins with ingesting a CSV file from GitHub into the Azure ecosystem via Azure Data Factory. The data is initially stored in Azure Data Lake Storage Gen2 and then transformed using Azure Databricks. The enriched data is subsequently stored back in ADLS Gen2. Advanced analytics are conducted in Azure Synapse, with final insights visualized in Azure Synapse or Power BI.
+This project demonstrates a comprehensive data engineering and analytics workflow using the Tokyo Olympic dataset. The process begins with ingesting a CSV file from GitHub into the Azure ecosystem via Azure Data Factory. The data is initially stored in Azure Data Lake Storage Gen2 and then transformed using Azure Databricks. The enriched data is subsequently stored back in ADLS Gen2. Advanced analytics are conducted in Azure Synapse, with final insights visualized in Azure Synapse.
 
 ## Architecture
 
